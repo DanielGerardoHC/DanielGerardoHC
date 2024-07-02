@@ -21,7 +21,7 @@ Hola! Soy Daniel, actualmente estudio Ing. En Software orientado la desarrollo B
 ### Entornos, Otros:
 
 | Swagger | Postman | FileZilla | Docker | JetBrains | Git | 
-|----------|----------|----------|----------|
+|----------|----------|----------|----------|----------|----------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg" title="swagger" alt="swagger" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="postman" alt="postman" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-original-wordmark.svg" title="FilleZilla" alt="FilleZilla" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="jetbrains" alt="jetbrains" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" alt="git" width="55" height="55"/>|
 
 
