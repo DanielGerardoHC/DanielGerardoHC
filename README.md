@@ -1,4 +1,4 @@
-### !Saludos!:
+### !Saludos!
 
 Soy Daniel, actualmente estudio Ing. En Software orientado la desarrollo Back-End, soy amante del conocimiento por lo cual me mantengo constantemente en aprendizaje de nuevas
 tecnologias, y tratando de ser un mejor desarrollador
