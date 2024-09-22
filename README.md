@@ -1,7 +1,7 @@
 ### !Saludos!
 
-Soy Daniel, actualmente estudio Ing. En Software orientado la desarrollo Back-End, soy amante del conocimiento por lo cual me mantengo constantemente en aprendizaje de nuevas
-tecnologias, y tratando de ser un mejor desarrollador
+Soy Daniel, estudiante de Ing. En Software orientado al desarrollo Back-End, me mantengo constantemente en aprendizaje de nuevas
+tecnologias, y tratando de mejorar como desarrollador
 
 ### Algoritmos de logica [LeetCode](https://leetcode.com/u/DgerardoHC/)
 
